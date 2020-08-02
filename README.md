@@ -1,2 +1,4 @@
 # Tetris
-Following tutorial from Ania Kubow ( https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw )
+Following tutorial from Ania Kubow (https://github.com/kubowania/Tetris)
+
+I focused in improving the gameplay, correcting some bugs and adding other funcionalities.
